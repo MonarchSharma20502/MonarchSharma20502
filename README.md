@@ -223,13 +223,13 @@ I also use GitHub to experiment with development, programming and emerging tools
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/MonarchSharma20502">
   <img src="https://img.shields.io/badge/View%20my%20contributions-181717?style=for-the-badge&logo=github" />
 </a>
 
-</div>
+</div> -->
 
 
 # 🧰 My Infrastructure Mindset
