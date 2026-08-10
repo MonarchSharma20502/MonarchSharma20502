@@ -199,33 +199,38 @@ I also use GitHub to experiment with development, programming and emerging tools
 
 ---
 
-# 🟩 Contributions
-
-### Watching the green squares grow...
+## 🟩 GitHub Contributions
 
 <div align="center">
 
-<img src="https://github.com/MonarchSharma20502/MonarchSharma20502/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+<a href="https://github.com/MonarchSharma20502">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonarchSharma20502&theme=github-compact&hide_border=true&area=true" width="95%" alt="Monarch Sharma's GitHub contribution graph"/>
+</a>
 
 </div>
 
-> The contribution snake is generated automatically from the GitHub contribution graph.
+<br>
 
----
+<div align="center">
 
-# 🐍 Contribution Snake
+### 🐍 Contribution Snake
 
-```text
-        🟩 🟩 🟩 🟩 🟩
-      🟩 🟩 🟩 🟩 🟩 🟩
-    🟩 🟩 🟩 🟩 🟩 🟩 🟩
-  🟩 🟩 🟩 🟩 🟩 🟩 🟩 🟩
-    🟩 🟩 🟩 🟩 🟩 🟩 🟩
-      🟩 🟩 🟩 🟩 🟩 🟩
-        🟩 🟩 🟩 🟩 🟩
-```
+<a href="https://github.com/MonarchSharma20502">
+  <img src="https://raw.githubusercontent.com/MonarchSharma20502/MonarchSharma20502/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+</a>
 
----
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/MonarchSharma20502">
+  <img src="https://img.shields.io/badge/View%20my%20contributions-181717?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
 
 # 🧰 My Infrastructure Mindset
 
