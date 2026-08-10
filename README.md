@@ -211,7 +211,7 @@ I also use GitHub to experiment with development, programming and emerging tools
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 ### 🐍 Contribution Snake
 
@@ -219,7 +219,7 @@ I also use GitHub to experiment with development, programming and emerging tools
   <img src="https://raw.githubusercontent.com/MonarchSharma20502/MonarchSharma20502/output/github-contribution-grid-snake.svg" width="95%" alt=""/>
 </a>
 
-</div>
+</div> -->
 
 <br>
 
