@@ -216,20 +216,20 @@ I also use GitHub to experiment with development, programming and emerging tools
 ### 🐍 Contribution Snake
 
 <a href="https://github.com/MonarchSharma20502">
-  <img src="https://raw.githubusercontent.com/MonarchSharma20502/MonarchSharma20502/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+  <img src="https://raw.githubusercontent.com/MonarchSharma20502/MonarchSharma20502/output/github-contribution-grid-snake.svg" width="95%" alt=""/>
 </a>
 
 </div>
 
 <br>
 
-<!-- <div align="center">
+<div align="center">
 
 <a href="https://github.com/MonarchSharma20502">
   <img src="https://img.shields.io/badge/View%20my%20contributions-181717?style=for-the-badge&logo=github" />
 </a>
 
-</div> -->
+</div>
 
 
 # 🧰 My Infrastructure Mindset
