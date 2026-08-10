@@ -177,15 +177,14 @@ I also use GitHub to experiment with development, programming and emerging tools
 
 ---
 
+
+<!-- <div align="center">
 # 📊 GitHub Activity
-
-<div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=MonarchSharma20502&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonarchSharma20502&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-</div>
+</div> -->
 
 ---
 
