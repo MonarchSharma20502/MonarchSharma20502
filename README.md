@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/followers/MonarchSharma20502?label=Followers&style=for-the-badge&logo=github&color=181717" />
 </a>
 <a href="https://github.com/MonarchSharma20502?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-11-2ea44f?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Repositories-12-2ea44f?style=for-the-badge&logo=github" />
 </a>
 <a href="https://github.com/MonarchSharma20502">
   <img src="https://komarev.com/ghpvc/?username=MonarchSharma20502&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS" />
