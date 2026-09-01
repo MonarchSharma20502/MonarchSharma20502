@@ -329,7 +329,7 @@ I like learning technologies by actually building with them:
 </div>
 
 <div align="center">
-  <p>G-mail: <b> monarchsharma.m20@gmail.com</b>
+  <p>Mail: <b> monarchsharma.m20@gmail.com</b>
   </p>
 </div>
 
