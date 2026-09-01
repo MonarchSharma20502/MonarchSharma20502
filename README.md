@@ -339,3 +339,9 @@ I like learning technologies by actually building with them:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
+
+<div align="center">
+  <p>Mail: <b> monarchsharma.m20@gmail.com
+  </b>
+  </p>
+</div>
