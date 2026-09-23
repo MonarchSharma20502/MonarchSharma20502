@@ -54,7 +54,7 @@ mindset: "Build → Break → Debug → Automate → Repeat 🚀"
 
 I enjoy working at the intersection of **cloud infrastructure, automation, containers and DevOps**.
 
-My repositories are a mix of infrastructure automation, Kubernetes projects, CI/CD demonstrations, application deployments, and experiments that help me understand how systems work from the ground up.
+My repositories are a mix of infrastructure automation, Kubernetes projects, CI/CD demonstrations and experiments that help me understand how systems work from the ground up.
 
 ---
 
