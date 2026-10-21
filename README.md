@@ -197,7 +197,7 @@ I also use GitHub to experiment with development, programming and emerging tools
 </div>
 
 ---
-
+<!--
 ## 🟩 GitHub Contributions
 
 <div align="center">
@@ -206,7 +206,7 @@ I also use GitHub to experiment with development, programming and emerging tools
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MonarchSharma20502&theme=github-compact&hide_border=true&area=true" width="95%" alt="Monarch Sharma's GitHub contribution graph"/>
 </a>
 
-</div>
+</div> -->
 
 <br>
 
